@@ -1,7 +1,18 @@
 ---
-title: "luna-website"
+title: "Luna Wang"
 ---
 
-This is a Quarto website.
+I'm a PhD student at the University of Toronto's Institute for the History and Philosophy of Science and Technology (IHPST).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My work sits at the intersection of the philosophy of biology, philosophy of cognitive science, and philosophy of technology. I study agency, consciousness, and cognition, and the diverse forms in which they appear across living and artificial systems. Recently, I am exploring the role of language, semiotics, and communication in shaping sense-making, especially in intersubjective and sympoietic contexts. Through this work, I hope to develop a richer understanding of human–AI relations and the ways in which interactions with artificial systems affect human agency and sense-making.
+
+## Areas of interest
+
+- Enactivism and embodied cognition
+- Biosemiotics
+- Metascience, theory construction and quantitative modeling
+- Process-relational philosophy
+
+## Around this site
+
+This is my academic home on the web: a place for my research, writing, and occasional notes. More soon.

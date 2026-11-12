@@ -1,5 +1,16 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
+I'm a PhD student at the University of Toronto's Institute for the History and Philosophy of Science and Technology (IHPST). My research brings together questions about agency, consciousness, cognition, and the boundaries between living and artificial systems.
+
+## Education
+
+- BA in Psychology and Philosophy, University of Oxford (2020-2023)
+- MSc in Mind, Language and Embodied Cognition, University of Edinburgh (2023-2024)
+
+I was a research intern at the Embodied Cognitive Science Unit, Okinawa Institute of Science and Technology (2025-2026).
+
+## Hobbies
+
+Outside of academia, I enjoy dancing, rock climbing, and skiing to move my body, or playing the piano, drawing and film photography for creative expression.

@@ -1,1 +1,65 @@
-/* css styles */
+:root {
+  --paper: #f7f4ed;
+  --ink: #292b28;
+  --muted-ink: #62645e;
+  --accent: #8b493b;
+  --rule: #d8d1c4;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--rule);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--ink);
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
+  color: var(--accent);
+}
+
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+main {
+  max-width: 760px;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+}
+
+h1 {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--ink);
+}
+
+::selection {
+  background: #e7d4ca;
+}
