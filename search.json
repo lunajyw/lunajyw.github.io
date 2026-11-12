@@ -2,15 +2,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site"
+    "text": "I’m a PhD student at the University of Toronto’s Institute for the History and Philosophy of Science and Technology (IHPST). My research brings together questions about agency, consciousness, cognition, and the boundaries between living and artificial systems."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\n\nBA in Psychology and Philosophy, University of Oxford (2020-2023)\nMSc in Mind, Language and Embodied Cognition, University of Edinburgh (2023-2024)\n\nI was a research intern at the Embodied Cognitive Science Unit, Okinawa Institute of Science and Technology (2025-2026)."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About me",
+    "section": "Hobbies",
+    "text": "Hobbies\nOutside of academia, I enjoy dancing, rock climbing, and skiing to move my body, or playing the piano, drawing and film photography for creative expression."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "luna-website",
+    "title": "Luna Wang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’m a PhD student at the University of Toronto’s Institute for the History and Philosophy of Science and Technology (IHPST).\nMy work sits at the intersection of the philosophy of biology, philosophy of cognitive science, and philosophy of technology. I study agency, consciousness, and cognition, and the diverse forms in which they appear across living and artificial systems. Recently, I am exploring the role of language, semiotics, and communication in shaping sense-making, especially in intersubjective and sympoietic contexts. Through this work, I hope to develop a richer understanding of human–AI relations and the ways in which interactions with artificial systems affect human agency and sense-making."
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Luna Wang",
+    "section": "Areas of interest",
+    "text": "Areas of interest\n\nEnactivism and embodied cognition\nBiosemiotics\nMetascience, theory construction and quantitative modeling\nProcess-relational philosophy"
+  },
+  {
+    "objectID": "index.html#around-this-site",
+    "href": "index.html#around-this-site",
+    "title": "Luna Wang",
+    "section": "Around this site",
+    "text": "Around this site\nThis is my academic home on the web: a place for my research, writing, and occasional notes. More soon."
   }
 ]
